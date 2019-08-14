@@ -1,0 +1,8 @@
+{
+  "name": "supermundano/wp-mailhog",
+  "description": "Mailhog configuration for WordPress",
+  "type": "wordpress-muplugin",
+  "require": {    
+    "composer/installers": "*"
+  }
+}
