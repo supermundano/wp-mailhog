@@ -7,7 +7,7 @@
  * @wordpress-plugin
  * Plugin Name:       Use MailHog
  * Description:       Configure WordPress on Valet to use MailHog
- * Version:           1.0.0
+ * Version:           1.0.1
  * Tags: local, email
  */
 
