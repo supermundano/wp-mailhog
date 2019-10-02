@@ -11,7 +11,7 @@
  * Tags: local, email
  */
 
-if( WP_ENV !== 'production' ){
+if( defined( 'WP_ENV' ) && WP_ENV !== 'production' ){
 	add_action( 'phpmailer_init', 'supermundano_configMH', 10, 1 );
 }
 
